@@ -5,41 +5,41 @@
   tasks:
     - name: ping-01
       ping:
-    - name: ping-02
+    - name: ping-02ping-02
       ping:
-    - name: ping-03
+    - name: ping-03ping-03ping-03
       ping:
-    - name: ping-04
+    - name: ping-04ping-04ping-04ping-04
       ping:
-    - name: ping-05
+    - name: ping-05ping-05ping-05ping-05ping-05
       ping:
-    - name: ping-06
+    - name: ping-06ping-06ping-06ping-06ping-06ping-06
       ping:
-    - name: ping-07
+    - name: ping-07ping-07ping-07ping-07ping-07ping-07ping-07
       ping:
-    - name: ping-08
+    - name: ping-08ping-08ping-08ping-08ping-08ping-08ping-08ping-08
       ping:
-    - name: ping-09
+    - name: ping-09ping-09ping-09ping-09ping-09ping-09ping-09ping-09ping-09
       ping:
-    - name: ping-10
+    - name: ping-10ping-10ping-10ping-10ping-10ping-10ping-10ping-10ping-10ping-10
       ping:
-    - name: ping-11
+    - name: ping-11ping-11ping-11ping-11ping-11ping-11ping-11ping-11ping-11ping-11ping-11
       ping:
-    - name: ping-12
+    - name: ping-12ping-12ping-12ping-12ping-12ping-12ping-12ping-12ping-12ping-12ping-12ping-12
       ping:
-    - name: ping-13
+    - name: ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13ping-13
       ping:
-    - name: ping-14
+    - name: ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14ping-14
       ping:
-    - name: ping-15
+    - name: ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15ping-15
       ping:
-    - name: ping-16
+    - name: ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16ping-16
       ping:
-    - name: ping-17
+    - name: ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17ping-17
       ping:
-    - name: ping-18
+    - name: ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18ping-18
       ping:
-    - name: ping-19
+    - name: ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19ping-19
       ping:
-    - name: ping-20
+    - name: ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20ping-20
       ping:
